@@ -1,9 +1,10 @@
-  <br>
+ <p align="center">
+ <br>
   <a href="https://ibb.co/YdbfS3M"><img src="https://i.ibb.co/pKn4Tx8/GMM-Compressed.jpg" width="170" height="218">
-  <br>
- Hello!
+ <br>
   <br>
 </h1>
+</p>
 
 <h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
