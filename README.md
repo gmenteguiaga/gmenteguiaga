@@ -1,7 +1,7 @@
   <br>
-  <img src="https://ibb.co/YdbfS3M" alt="Hello!" width="200"></a>
+  <a href="https://ibb.co/YdbfS3M"><img src="https://i.ibb.co/pKn4Tx8/GMM-Compressed.jpg" alt="GMM-Compressed" border="0"></a>
   <br>
-  Markdownify
+ Hello!
   <br>
 </h1>
 
