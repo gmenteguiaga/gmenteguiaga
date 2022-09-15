@@ -1,5 +1,5 @@
   <br>
-  <a href="https://ibb.co/YdbfS3M"><img src="https://i.ibb.co/pKn4Tx8/GMM-Compressed.jpg" alt="GMM-Compressed" border="0">width="100"</a> 
+  <a href="https://ibb.co/YdbfS3M"><img src="https://i.ibb.co/pKn4Tx8/GMM-Compressed.jpg" width="100" height="100">
   <br>
  Hello!
   <br>
