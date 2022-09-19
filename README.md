@@ -93,6 +93,6 @@ To give yourself administrator permissions on the chat, you will have to type `/
 
 Gracias por la oportunidad, espero conectar con ustedes en LinkedIn!
 
-<a href="https://www.linkedin.com/in/gmenteguiaga/" target="_blank"><img src="https://i.imgur.com/mFId2vt.png" alt="Conoce Mi CV!" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.linkedin.com/in/gmenteguiaga/" target="_blank"><img src="https://i.imgur.com/mFId2vt.png" alt="Conoce Mi CV!" style="height: 100!important;width: 300 !important;" ></a>
 
 
