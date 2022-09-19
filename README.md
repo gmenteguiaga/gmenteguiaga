@@ -56,16 +56,16 @@ To give yourself administrator permissions on the chat, you will have to type `/
 ---
 
 ## Ejercicio 3
->You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
+
 
 This project is licensed under the terms of the **MIT** license.
 
 ---
 
 ## Ejercicio 4
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
+> Pueden observar mi perfil de Trailhead aqui! [here](https://trailblazer.me/id/gmenteguiaga)
 
-You might want to look into `config.json` to make change the port you want to use and set up a SSL certificate.
+This project is licensed under the terms of the **MIT** license.
 
 ---
 
