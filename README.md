@@ -54,6 +54,8 @@ POST se utiliza para enviar datos a un servidor para crear/actualizar un recurso
 
 ## Ejercicio 4
 > Pueden observar mi perfil de Trailhead aqui! [here](https://trailblazer.me/id/gmenteguiaga)
+![Trailhead!](]https://i.imgur.com/8fCD3p9.png)
+
 
 ---
 
