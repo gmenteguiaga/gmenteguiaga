@@ -58,11 +58,9 @@ POST se utiliza para enviar datos a un servidor para crear/actualizar un recurso
 7. Cuando ingresamos a una pagina a traves del navegador web, el verbo que utiliza es el GET.3
 8. JSON es un formato de intercambio de datos y sólo proporciona una especificación de codificación de datos. XML es un lenguaje para especificar lenguajes de marcado personalizados, y proporciona mucho más que el intercambio de datos.
 ![Estructuras JSON y XML](https://i.imgur.com/2wCiEGz.png)
-- Private messaging
-- Message deleting (for admins)
-- Ability to kick/ban users (for admins)
-- See other user's IPs (for admins)
-- Other awesome features yet to be implemented
+9. SOAP es el acrónimo de Simple Object Access Protocol. Es un protocolo de mensajería basado en XML para el intercambio de información entre ordenadores. SOAP es una aplicación de la especificación XML.
+10. RESTful es una interfaz que dos sistemas informáticos utilizan para intercambiar información de forma segura a través de Internet. La mayoría de las aplicaciones empresariales tienen que comunicarse con otras aplicaciones internas y de terceros para realizar diversas tareas.
+11. Los HTTP headers son los codigos que transfieren los datos entre un servidor web y un cliente. Las headers están destinados principalmente a la comunicación entre el servidor y el cliente en ambas direcciones. Los Key Content-Type en un header se utilizan para indicar el tipo de medio original del recurso.
 
 ---
 
