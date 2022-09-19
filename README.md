@@ -91,7 +91,7 @@ To give yourself administrator permissions on the chat, you will have to type `/
 ---
 ## Mi LinkedIn
 
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
+Gracias por la oportunidad, espero conectar con ustedes en LinkedIn!
 
 <a href="https://www.linkedin.com/in/gmenteguiaga/" target="_blank"><img src="https://i.imgur.com/mFId2vt.png" alt="Conoce Mi CV!" style="height: auto !important;width: auto !important;" ></a>
 
