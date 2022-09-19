@@ -81,6 +81,6 @@ La diferencia entre las llamadas 1 y 3 es bastante simple. Esta ultima muestra e
 
 Gracias por la oportunidad, espero conectar con ustedes en LinkedIn!
 
-<a href="https://www.linkedin.com/in/gmenteguiaga/" target="_blank"><img src="https://i.imgur.com/xVJswLH.png" alt="Conoce Mi CV!" height="100" width="300" ></a>
+<a href="https://www.linkedin.com/in/gmenteguiaga/" target="_blank"><img src="https://i.imgur.com/xVJswLH.png" alt="Conoce Mi CV!" height="80" width="80" ></a>
 
 
