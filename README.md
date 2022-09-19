@@ -10,27 +10,10 @@ Desde 2017 estoy certificado como Salesforce Admin y he adquirido distintos skil
 
 ---
 
-## Features
-- Material Design
-- Emoji support
-- User @mentioning
-- Private messaging
-- Message deleting (for admins)
-- Ability to kick/ban users (for admins)
-- See other user's IPs (for admins)
-- Other awesome features yet to be implemented
+#### Existen 2 cosas que deben saber!
+- **Github:** Es la primera vez que lo uso! Debo admitir que es bastante entretenido
+- **Desarrollo:** Como mencione en la entrevista anterior, mi perfil no es dev, asi que algunas de las herramientas presentadas en este ejercicio son nuevas para mi, aunque fue facil entender el concepto.
 
-.
-![User Features](http://i.imgur.com/WbF1fi2.png)
-
-.
-![Admin Features](http://i.imgur.com/xQFaadt.png)
-
-
-#### There are 3 admin levels:
-- **Helper:** Can delete chat messages
-- **Moderator:** The above plus the ability to kick and ban users
-- **Administrator:** All the above plus send global alerts and promote/demote users
 
 ---
 
