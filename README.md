@@ -48,11 +48,12 @@ Desde 2017 estoy certificado como Salesforce Admin y he adquirido distintos skil
 3. Un request y response son parte de los mensajes HTTP, usados para intercambiar datos entre un servidor y un cliente. Request son las solicitudes enviadas por el cliente para desencadenar una acción en el servidor, y las responses, las respuestas del servidor. Los headers se utilizan para pasar más información sobre la solicitud, de modo que, utilizandolos, el servidor sabe cómo tratar la información que el cliente demanda.
 4. Una query string es la parte de una URL en la que se pasan datos a una aplicación web y/o a una base de datos back-end.
 5. El response code en HTTP indica si una solicitud HTTP específica se ha completado con éxito. Las respuestas se agrupan en cinco clases:
--Respuestas informativas 
--Respuestas exitosas 
--Mensajes de redirección 
--Respuestas de error del cliente 
--Respuestas de error del servidor 
+- Respuestas informativas 
+- Respuestas exitosas 
+- Mensajes de redirección 
+- Respuestas de error del cliente 
+- Respuestas de error del servidor 
+
 6.
 - User @mentioning
 - Private messaging
