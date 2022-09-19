@@ -7,12 +7,6 @@ Desde 2017 estoy certificado como Salesforce Admin y he adquirido distintos skil
 
 ![Soy un Salesforce Admin!](https://i.imgur.com/bRvjVoK.png)
 
----
-## Buy me a coffee
-
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
-
-<a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ---
 
@@ -92,4 +86,13 @@ After you clone this repo to your desktop, go to its root directory and run `npm
 Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
 
 To give yourself administrator permissions on the chat, you will have to type `/role [your-name]` in the app console.
+
+
+---
+## Mi LinkedIn
+
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
+
+<a href="https://www.linkedin.com/in/gmenteguiaga/" target="_blank"><img src="https://i.imgur.com/mFId2vt.png" alt="Conoce Mi CV!" style="height: auto !important;width: auto !important;" ></a>
+
 
