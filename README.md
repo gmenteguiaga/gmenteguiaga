@@ -11,10 +11,10 @@ Desde 2017 estoy certificado como Salesforce Admin y he adquirido distintos skil
 ---
 
 #### Existen 2 cosas que deben saber!
-- **Github:** Es la primera vez que lo uso! Debo admitir que es bastante entretenido
-- **Desarrollo:** Como mencione en la entrevista anterior, mi perfil no es dev, asi que algunas de las herramientas presentadas en este ejercicio son nuevas para mi, aunque fue facil entender el concepto.
+- **Github:** Es la primera vez que lo uso! Debo admitir que es bastante entretenido :stuck_out_tongue_closed_eyes:
+- **Desarrollo:** Como mencione en la entrevista anterior, mi perfil no es dev, asi que algunas de las herramientas presentadas en este ejercicio son nuevas para mi, aunque fue facil entender el concepto. :bulb:
 
-
+Ahora sin más, vamos a los ejercicios!
 ---
 
 ## Ejercicio 1
@@ -50,40 +50,22 @@ POST se utiliza para enviar datos a un servidor para crear/actualizar un recurso
 ## Ejercicio 3
 
 
-This project is licensed under the terms of the **MIT** license.
-
 ---
 
 ## Ejercicio 4
 > Pueden observar mi perfil de Trailhead aqui! [here](https://trailblazer.me/id/gmenteguiaga)
 
-This project is licensed under the terms of the **MIT** license.
-
 ---
 
 ## Ejercicio 5
-After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
-
-Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
-
-To give yourself administrator permissions on the chat, you will have to type `/role [your-name]` in the app console.
 
 ---
 
 ## Ejercicio 6
->You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
-
-This project is licensed under the terms of the **MIT** license.
 
 ---
 
 ## Ejercicio 7
-After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
-
-Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
-
-To give yourself administrator permissions on the chat, you will have to type `/role [your-name]` in the app console.
-
 
 ---
 ## Mi LinkedIn
