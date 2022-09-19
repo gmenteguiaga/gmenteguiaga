@@ -1,7 +1,9 @@
 Bienvenidos!
 ============
 
-Mi nombre es Gustavo Marcos Menteguiaga, vivo en Buenos Aires, Argentina y tengo 30 años. Este proyecto en particular es para responder a la evaluacion practica presntada por ProContacto, espero que las respuestas y el formato sean de su agrado!
+Mi nombre es Gustavo Marcos Menteguiaga, vivo en Buenos Aires, Argentina y tengo 30 años. Este proyecto en particular es para responder a la evaluación práctica presntada por ProContacto, espero que las respuestas y el formato sean de su agrado!
+
+Desde 2017 estoy certificado como Salesforce Admin y he adquirido distintos skillsets a lo largo de mi carrera profesional. Soy una persona orientada a resultados, al soporte del cliente, siempre tratando de mantener o exceder altos estandartes de calidad.
 
 ![Soy un Salesforce Admin!](https://i.imgur.com/bRvjVoK.png)
 
