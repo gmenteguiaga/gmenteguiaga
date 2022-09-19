@@ -57,7 +57,7 @@ Desde 2017 estoy certificado como Salesforce Admin y he adquirido distintos skil
 POST se utiliza para enviar datos a un servidor para crear/actualizar un recurso. Los datos enviados al servidor con POST se almacenan en el cuerpo de la petición HTTP.
 7. Cuando ingresamos a una pagina a traves del navegador web, el verbo que utiliza es el GET.3
 8. JSON es un formato de intercambio de datos y sólo proporciona una especificación de codificación de datos. XML es un lenguaje para especificar lenguajes de marcado personalizados, y proporciona mucho más que el intercambio de datos.
-(https://i.imgur.com/2wCiEGz.png)
+![Estructuras JSON y XML](https://i.imgur.com/2wCiEGz.png)
 - Private messaging
 - Message deleting (for admins)
 - Ability to kick/ban users (for admins)
