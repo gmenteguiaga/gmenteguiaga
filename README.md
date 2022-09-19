@@ -49,6 +49,13 @@ POST se utiliza para enviar datos a un servidor para crear/actualizar un recurso
 
 ## Ejercicio 3
 
+1.![Primer GET](https://i.imgur.com/E4Z6lmR.png)
+2.![POST](https://i.imgur.com/gRWfmZW.png)
+3.![Segundo GET](https://i.imgur.com/XkFquzQ.png)
+
+La diferencia entre las llamadas 1 y 3 es bastante simple. Esta ultima muestra el POST realizado en el punto 2 que fue enviado con nuestra informacion a la URL. Obviamente en la primer llamada esto no se veia debido a que simplemente estabamos haciendo un GET request con la informacion existente.
+
+
 
 ---
 
