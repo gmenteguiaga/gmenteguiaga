@@ -67,7 +67,17 @@ La diferencia entre las llamadas 1 y 3 es bastante simple. Esta ultima muestra e
 ---
 
 ## Ejercicio 5
- 
+
+1. Lead:
+2. Account:
+3. Contact:
+4. Opportunity:
+5. Product:
+6. PriceBook:
+7. Quote:
+8. Asset:
+9. Case:
+10. Article:
  
 ---
 
