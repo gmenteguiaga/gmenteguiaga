@@ -68,16 +68,16 @@ La diferencia entre las llamadas 1 y 3 es bastante simple. Esta ultima muestra e
 
 ## Ejercicio 5
 
-1. Lead:
-2. Account:
-3. Contact:
-4. Opportunity:
-5. Product:
-6. PriceBook:
-7. Quote:
-8. Asset:
-9. Case:
-10. Article:
+1. Lead: Son potenciales clientes que están interesadas en su producto y servicio por lo que infieren una posibilidad de negocio.
+2. Account: Representa una cuenta individual, que es una organización o persona involucrada con su negocio (como clientes, competidores y socios).
+3. Contact: Representa a las personas individuales asociadas a la cuenta comercial en su organización. 
+4. Opportunity: Es una futura venta potencial para una cuenta en la que quieres trabajar o hacer un seguimiento.
+5. Product: Son los artículos o servicios que se venden a los clientes
+6. PriceBook: Proporciona la lista de productos y sus precios por unidad.
+7. Quote:Representan los precios propuestos de los productos y servicios de su empresa. Se crea un quote a partir de una oportunidad y sus productos. Cada oportunidad puede tener varias quotes asociadas, y cualquiera de ellas puede sincronizarse con la oportunidad.
+8. Asset: Mientras que los productos representan los artículos que su empresa vende, los activos representan los productos específicos que sus clientes han comprado.
+9. Case: Un case es la pregunta, el comentario o el problema de un cliente. Los agentes de soporte pueden revisar los casos para ver cómo pueden ofrecer un mejor servicio. Los representantes de ventas pueden utilizar los casos para ver cómo afectan al proceso de ventas.
+10. Article: Una KB se construye a partir de artículos, que son documentos de información. Los artículos pueden incluir información sobre procesos, como por ejemplo, cómo restablecer los valores predeterminados de su producto, o preguntas frecuentes, etc.
  
 ---
 
